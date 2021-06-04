@@ -8,7 +8,7 @@ namespace QLFILM
 {
     static class Program
     {
-        /// <summary>
+        /// <summary> test push
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
